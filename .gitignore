@@ -1,0 +1,9 @@
+*~
+*.swp
+*.so
+*.o
+*.a
+*.pyc
+src/build/*
+src/pytadbit.py
+src/pytadbit_wrap.c
